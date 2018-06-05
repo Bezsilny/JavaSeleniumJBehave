@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class SouceLabsTest {
 
     public static final String USERNAME = "zgitlabselenium";
-    public static final String ACCESS_KEY = "bafa35e9-2fab-499e-aa92-be19af5af5d6";
+    public static final String ACCESS_KEY = "123";
     public static final String URL = "http://" + USERNAME + ":" + ACCESS_KEY + "@ondemand.saucelabs.com:80/wd/hub";
 
     @Test
