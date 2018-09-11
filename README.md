@@ -1,6 +1,7 @@
 # Testing GitLab in Selenium using Java
 
-# Testowanie aplikacji JAVA 2017-2018
+# Testowanie aplikacji JAVA
+
 ## (JBehave + SeleniumWebDriver) 
 
 -  Testy w panelu logującym użytkownika
